@@ -4,3 +4,4 @@
 Makefile
 sim
 .gitignore
+.DS_Store
