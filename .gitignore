@@ -1,0 +1,6 @@
+/dumps
+/logs
+/.vscode
+Makefile
+sim
+.gitignore
